@@ -7,7 +7,7 @@ Widget uses webpack-karma-jasmine boilerplate package  ( https://github.com/devr
 ### Testing And Running
 `git clone https://github.com/sorniak/sorniaks_converter.git`
  
-`cd webpack-karma-jasmine/sample`
+`cd sorniaks_converter/sample`
 
 `npm install`
 
